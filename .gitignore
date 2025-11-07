@@ -1,2 +1,4 @@
 *-checkpoint.ipynb
 *.pyc
+*.idea/
+*.~lock*
